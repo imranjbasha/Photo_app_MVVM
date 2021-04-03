@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Photo App
 //
-//  Created by VEENA on 03/04/21.
+//  Created by IMRAN on 03/04/21.
 //
 
 import UIKit
